@@ -1,7 +1,3 @@
-# Aliya's Awakening
-
-# Credits
-
 ### Dedicated to T
 
 &nbsp;
@@ -104,7 +100,7 @@ Mark A.
 
 [Wayne (Br0keboy)](https://x.com/0atmilkicelatt3)
 
-[Karel Vuong](https://x.com/karelvuong)
+[TheCraftyPie](https://x.com/crypto_wsk)
 
 [JpegApe](https://x.com/Jpegape1)
 
@@ -278,7 +274,7 @@ Domenico
 
 Elle
 
-Flook
+Tayfun
 
 Josh W.
 
@@ -310,21 +306,21 @@ Vlad
 
 [Weary Traveller Studios](https://x.com/WTThemeMusic)
 
+[Noisewar](https://x.com/warandnoise)
+
+Lee
+
+Eric
+
 &nbsp;
 
 #### Special Thanks
 
-Battlefly
-
-[Gunzilla](https://gunzillagames.com/en/)
-
-[Knights of the Ether](https://knightsoftheether.com/)
-
-Lead 7 Team
+[Goblin Studios](https://x.com/SmithyDAO)
 
 [Lifeverse](https://lifeverse.gg/)
 
-Might Action Heroes
+[Gunzilla](https://gunzillagames.com/en/ )
 
 [Sapien.ai](https://sapien.ai/)
 
@@ -332,17 +328,17 @@ Might Action Heroes
 
 [SpireDAO](https://x.com/Spire_DAO)
 
-[Tales of Elleria](https://x.com/TalesofElleria)
+[Bridgeworld](https://bridgeworld.gg)
 
 [The Beacon](https://thebeacon.gg/)
 
-[The Lost Donkeys](https://www.thelostdonkeys.com/)
+[Sev Ohanian](https://www.imdb.com/name/nm3539578/ )
 
 Tools for Humanity
 
 Treasure Times
 
-[TreasureDAO](https://app.treasure.lol/)
+[Treasure Team](https://app.treasure.lol/)
 
 [Worldcoin](https://world.org/)
 
